@@ -95,7 +95,8 @@ http://localhost:5173
 Add screenshots of your UI here:
 
 ```
-/assets/screenshot.png
+task-manager-ui/src/assets/Screenshot-main.png
+task-manager-ui/src/assets/Screenshot-taskcreating.png
 ```
 
 ---
@@ -110,4 +111,5 @@ BTech Computer Science Graduate
 ## 📄 License
 
 This project is open source and available under the **MIT License**.
+
 
