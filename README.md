@@ -90,7 +90,6 @@ http://localhost:5173
 
 ## ✨ UI Preview
 
-> ⚠️ Make sure your images are inside an `assets` folder in your repo.
 
 ### Main Page
 ![Main UI](/Screenshot-main.png)
@@ -110,3 +109,4 @@ BTech Computer Science Graduate
 ## 📄 License
 
 This project is open source and available under the **MIT License**.
+
