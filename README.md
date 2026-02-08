@@ -12,7 +12,6 @@ This project allows users to create, manage, search, and track tasks with realâ€
 * Delete tasks
 * Filter tasks (All / Pending / Completed)
 * Search tasks instantly
-* Loading spinner during API calls
 * Clean and modern UI design
 
 ---
@@ -111,3 +110,4 @@ BTech Computer Science Graduate
 ## ðŸ“„ License
 
 This project is open source and available under the **MIT License**.
+
