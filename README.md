@@ -95,9 +95,9 @@ http://localhost:5173
 Add screenshots of your UI here:
 
 ```
-/assets/Screenshot-main.png
+src/assets/Screenshot-main.png
 
-/assets/Screenshot-taskcreating.png
+src/assets/Screenshot-taskcreating.png
 ```
 
 ---
@@ -112,6 +112,7 @@ BTech Computer Science Graduate
 ## 📄 License
 
 This project is open source and available under the **MIT License**.
+
 
 
 
