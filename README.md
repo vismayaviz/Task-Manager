@@ -101,7 +101,7 @@ http://localhost:5173
 
 ## 👩‍💻 Author
 
-**Vismaya Pv**  
+**Vismaya Vinodan**  
 BTech Computer Science Graduate  
 
 ---
@@ -109,4 +109,5 @@ BTech Computer Science Graduate
 ## 📄 License
 
 This project is open source and available under the **MIT License**.
+
 
